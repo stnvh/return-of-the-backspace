@@ -3,7 +3,7 @@
 
 	"name": "Return of the Backspace",
 	"description": "Reinstates backspace navigation — for the 0.04%",
-	"version": "1.0",
+	"version": "1.0.1",
 
 	"content_scripts": [
 		{
