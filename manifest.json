@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+
+	"name": "Return of the Backspace",
+	"description": "Reinstates backspace navigation — for the 0.04%",
+	"version": "1.0",
+
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["index.js"]
+		}
+	]
+}
